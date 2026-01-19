@@ -1758,6 +1758,117 @@ https://drive.usercontent.google.com/download?id=1G_gzXBBYJj48uHkGOjzFB5RgQWca_N
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network
+http://opplex.org:8080/live/36254571/3526987/150478.ts
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS",Pogo
+http://opplex.org:8080/live/36254571/3526987/150483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS",Cartoon Network HD+
+http://opplex.org:8080/live/36254571/3526987/153154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS",Sony yay
+http://opplex.org:8080/live/36254571/3526987/26187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS",Hungama
+http://opplex.org:8080/live/36254571/3526987/150480.ts
+#EXTINF:-1 tvg-id="nick.in" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nick
+http://opplex.org:8080/live/36254571/3526987/150482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS",Nick Junior
+http://opplex.org:8080/live/36254571/3526987/153156.ts
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery kids
+http://opplex.org:8080/live/36254571/3526987/76723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS",Disney Junior
+http://opplex.org:8080/live/36254571/3526987/153175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chutti Tv" tvg-logo="" group-title="KIDS",Chutti Tv
+http://opplex.org:8080/live/36254571/3526987/150479.ts
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY HD
+http://opplex.org:8080/live/36254571/3526987/167551.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK SONIC" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS",NICK SONIC
+http://opplex.org:8080/live/36254571/3526987/34011.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS",NICK HD+ [FHD]
+http://opplex.org:8080/live/36254571/3526987/76722.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK | Kids Zone+ HD" tvg-logo="http://b1g.fun/logos2/kids_zone.jpg" group-title="KIDS",PK | Kids Zone+ HD
+http://opplex.org:8080/live/36254571/3526987/383066.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS",24/7 MOTU PATLU 01
+http://opplex.org:8080/live/36254571/3526987/307079.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS",24/7 MOTU PATLU 02
+http://opplex.org:8080/live/36254571/3526987/311373.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="KIDS",24/7 SHIVA
+http://opplex.org:8080/live/36254571/3526987/342074.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCHU TV " tvg-logo="" group-title="KIDS",24/7 CHUCHU TV 
+http://opplex.org:8080/live/36254571/3526987/340807.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baal Veer " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="KIDS",24/7 Baal Veer 
+http://opplex.org:8080/live/36254571/3526987/340809.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chacha Bhatija" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="KIDS",24/7 Chacha Bhatija
+http://opplex.org:8080/live/36254571/3526987/311774.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wow Kids Action" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="KIDS",24/7 Wow Kids Action
+http://opplex.org:8080/live/36254571/3526987/314753.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vir The Robot Boy" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="KIDS",24/7 Vir The Robot Boy
+http://opplex.org:8080/live/36254571/3526987/314754.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | DORAEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="KIDS",24/7 KIDS | DORAEMON
+http://opplex.org:8080/live/36254571/3526987/388459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER 24/7" tvg-logo="" group-title="KIDS",PINK PANTHER 24/7
+http://opplex.org:8080/live/36254571/3526987/301503.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHU CHU TV 24/7" tvg-logo="" group-title="KIDS",CHU CHU TV 24/7
+http://opplex.org:8080/live/36254571/3526987/301502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 24/7" tvg-logo="" group-title="KIDS",Sonic 24/7
+http://opplex.org:8080/live/36254571/3526987/301500.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN (CARTOON) 24/7" tvg-logo="" group-title="KIDS",MR BEAN (CARTOON) 24/7
+http://opplex.org:8080/live/36254571/3526987/301501.ts
+#EXTINF:-1 tvg-id="" tvg-name="CoComelon TV 24/7" tvg-logo="" group-title="KIDS",CoComelon TV 24/7
+http://opplex.org:8080/live/36254571/3526987/301499.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All Hail King Julien Exiled" tvg-logo="" group-title="KIDS",24/7 All Hail King Julien Exiled
+http://opplex.org:8080/live/36254571/3526987/301504.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick And Morty" tvg-logo="" group-title="KIDS",24/7 Rick And Morty
+http://opplex.org:8080/live/36254571/3526987/301505.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and the Bear" tvg-logo="" group-title="KIDS",24/7 Masha and the Bear
+http://opplex.org:8080/live/36254571/3526987/301506.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Baby Bum" tvg-logo="" group-title="KIDS",24/7 Little Baby Bum
+http://opplex.org:8080/live/36254571/3526987/301507.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Boss Baby Back in Business" tvg-logo="" group-title="KIDS",24/7 The Boss Baby Back in Business
+http://opplex.org:8080/live/36254571/3526987/301508.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" tvg-logo="" group-title="KIDS",24/7 Peppa Pig
+http://opplex.org:8080/live/36254571/3526987/301509.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blippi" tvg-logo="" group-title="KIDS",24/7 Blippi
+http://opplex.org:8080/live/36254571/3526987/301510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gabby_s Dollhouse" tvg-logo="" group-title="KIDS",24/7 Gabby_s Dollhouse
+http://opplex.org:8080/live/36254571/3526987/301511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="KIDS",Oggy and the Cockroaches Hindi
+http://opplex.org:8080/live/36254571/3526987/308282.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="KIDS",24/7 Chhota Bheem
+http://opplex.org:8080/live/36254571/3526987/315401.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="KIDS",24/7 Tom & Jerry
+http://opplex.org:8080/live/36254571/3526987/329247.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="KIDS",24/7 Scooby-Doo
+http://opplex.org:8080/live/36254571/3526987/329248.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Booba" tvg-logo="" group-title="KIDS",24/7 Booba
+http://opplex.org:8080/live/36254571/3526987/340803.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="KIDS",24/7 KIDS SONGS HINDI
+http://opplex.org:8080/live/36254571/3526987/340802.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus | Nursery Rhymes" tvg-logo="" group-title="KIDS",24/7 BabyBus | Nursery Rhymes
+http://opplex.org:8080/live/36254571/3526987/340804.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOV HINDI
+http://opplex.org:8080/live/36254571/3526987/362998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES
+http://opplex.org:8080/live/36254571/3526987/362999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 01
+http://opplex.org:8080/live/36254571/3526987/363000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="KIDS",24/7 KIDS | MOVIES ENG 02
+http://opplex.org:8080/live/36254571/3526987/363001.ts
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="MUSIC",Zoom TV
+http://opplex.org:8080/live/36254571/3526987/66190.ts
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="MUSIC",9xm
+http://opplex.org:8080/live/36254571/3526987/66192.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="MUSIC",B4u Music
+http://opplex.org:8080/live/36254571/3526987/66203.ts
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="MUSIC",9x Jalwa
+http://opplex.org:8080/live/36254571/3526987/66226.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="MUSIC",MTV BEAT
+http://opplex.org:8080/live/36254571/3526987/66273.ts
+#EXTINF:-1 tvg-id="" tvg-name="YRF MUSIC" tvg-logo="" group-title="MUSIC",YRF MUSIC
+http://opplex.org:8080/live/36254571/3526987/383530.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHOWBOX MUSIC" tvg-logo="" group-title="MUSIC",SHOWBOX MUSIC
+http://opplex.org:8080/live/36254571/3526987/383529.ts
+#EXTINF:-1 tvg-id="" tvg-name="pun: Pittara TV" tvg-logo="" group-title="MUSIC",pun: Pittara TV
+http://opplex.org:8080/live/36254571/3526987/66285.ts
 
 
 
